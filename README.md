@@ -11,4 +11,3 @@ The executable is already supplied, if you want to see the code you to have down
 
 # License
 Copyright (c) 2015 **Mohammed (Zack) Salah**
-I have added exeuable of the game. Please try it.
