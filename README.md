@@ -3,11 +3,11 @@
 ## Technologies
 
    * **Language**: *C#*
-   * **Sprits and pictures**: *half is the product of my creation the other half from the internet*
+   * **Sprites and pictures**: *half are the product of my creation the other half are from the internet*
 
 # Installation
 
-The executable is already supplied, if you want to see the code you to have download unity game engine and integrate the source code into the projects directory.
+The executable is already supplied. If you want to see the code you have to download the unity game engine and integrate the source code into the projects directory.
 
 # License
 Copyright (c) 2015 **Mohammed (Zack) Salah**
